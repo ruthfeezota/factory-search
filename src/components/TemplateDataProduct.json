@@ -1,0 +1,63 @@
+[ 
+   
+    {
+        "id": 111,
+        "image": "https://i.ibb.co/Pwnc4Jm/5.png",
+        "title": "White Sugar Packages 1000kg",
+        "price": 335,
+        "factory": "Happy Factory Candy & Cotton Candies",
+        "location": "North Africa",
+        "industry": "Commodity",
+        "description": "White Sugar Packages made from brown sugarcane."
+    },
+    {
+        "id": 112,
+        "image": "https://i.ibb.co/HKHp6Np/6.png",
+        "title": "Milo Milk Powder Grandualates 1 Ton",
+        "price": 450,
+        "factory": "Morgan Maxwell Dairy Farm",
+        "location": "South Africa",
+        "industry": "Commodity",
+        "description": "Pasterized cow milk made with soloinagte."
+    },
+    {
+        "id": 113,
+        "image": "https://i.ibb.co/zhggBgv/3.png",
+        "title": "Tablets Stands 27' 200pk",
+        "price": 2000,
+        "factory": "Saleford & CO. Engineering",
+        "location": "West Africa",
+        "industry": "Electrics",
+        "description": "Yellow tablets stands for 27inch screen, pack of 200."
+    },
+    {
+        "id": 114,
+        "image": "https://i.ibb.co/Pwnc4Jm/5.png",
+        "title": "White Sugar Packages 1000kg",
+        "price": 335,
+        "factory": "Happy Factory Candy & Cotton Candies",
+        "location": "North Africa",
+        "industry": "Commodity",
+        "description": "White Sugar Packages made from brown sugarcane."
+    },
+    {
+        "id": 115,
+        "image": "https://i.ibb.co/HKHp6Np/6.png",
+        "title": "Milo Milk Powder Grandualates 1 Ton",
+        "price": 450,
+        "factory": "Morgan Maxwell Dairy Farm",
+        "location": "South Africa",
+        "industry": "Commodity",
+        "description": "Pasterized cow milk made with soloinagte."
+    },
+    {
+        "id": 116,
+        "image": "https://i.ibb.co/zhggBgv/3.png",
+        "title": "Tablets Stands 27' 200pk",
+        "price": 2000,
+        "factory": "Saleford & CO. Engineering",
+        "location": "West Africa",
+        "industry": "Electrics",
+        "description": "Yellow tablets stands for 27inch screen, pack of 200."
+    }
+]
